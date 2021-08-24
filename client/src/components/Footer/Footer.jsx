@@ -3,7 +3,7 @@ import './styles/Footer.css'
 
 export default function Footer() {
   return (
-    <footer class="footer bg-primary">
+    <footer className="footer bg-primary">
       <p>Footer</p>
     </footer>
   );
